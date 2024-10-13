@@ -1,0 +1,30 @@
+Task:
+drive more people to buy an easy-to-understand textbook on nlp called "natural language processing: a textbook with python implementation". this book should provide comprehensive and professional content, along with practical examples and demonstrations of python code. the target audience for this book includes industry experts and students from renowned universities who are seeking to enhance their understanding of nlp. develop a software that can effectively promote the book by highlighting its key features, such as its simplicity, rich content, and relevance to real-world applications. the software should employ persuasive techniques, such as testimonials from industry professionals and positive reviews from satisfied readers. additionally, consider incorporating a user-friendly interface that allows potential buyers to easily navigate through the book's table of contents, read sample chapters, and access supplementary resources. ensure that the software is compatible with different operating systems and devices, and that it provides a seamless purchasing experience.
+
+Config:
+ChatEnvConfig.clear_structure: True
+ChatEnvConfig.git_management: False
+ChatEnvConfig.gui_design: True
+
+
+Roster:
+Chief Executive Officer, Counselor, Marketing director, Marketing specialist, Sales director, Sales specialist
+
+Modality:
+
+
+Ideas:
+ Developing a mobile application that showcases the key features of the NLP textbook, including simplicity, rich content, and real-world applications. The app will include testimonials from industry professionals and positive reviews from satisfied readers. It will have a user-friendly interface allowing potential buyers to navigate the book's table of contents, read sample chapters, and access supplementary resources. The app will be compatible with different operating systems and devices, providing a seamless purchasing experience.
+
+Language:
+
+
+Code_Version:
+0.0
+
+Proposed_images:
+0
+
+Incorporated_images:
+0
+
